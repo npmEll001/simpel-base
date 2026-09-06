@@ -49,7 +49,7 @@
   
 #License
 - Script ini TIDAK BOLEH diperjualbelikan, didistribusikan ulang, direbrand, ataupun diklaim sebagai karya sendiri tanpa izin resmi.
-- Hak distribusi dan penjualan HANYA dimiliki oleh Developer Asli (Hai Ell Engineer / OpenBOT Inc.).
+- Hak distribusi dan penjualan HANYA dimiliki oleh Developer Asli (Ell / OpenBOT Inc.).
 - Siapa pun selain Developer Asli dilarang menjual script ini dalam bentuk apa pun, baik utuh maupun hasil modifikasi.
 - Pelanggaran terhadap ketentuan ini dianggap sebagai pelanggaran lisensi dan hak cipta yang berlaku.
 
